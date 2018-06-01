@@ -126,13 +126,13 @@ For more information, please visit pass:[<a href="http://oreilly.com/safari" cla
 
 To comment or ask technical questions about this book, send email to pass:[<a class="email" href="mailto:bookquestions@oreilly.com"><em>bookquestions@oreilly.com</em></a>].
 
-For more information about our books, courses, conferences, and news, see our website at link:$$http://www.oreilly.com$$[].
+For more information about our books, courses, conferences, and news, see our website at link:$$https://www.oreilly.com$$[].
 
-Find us on Facebook: link:$$http://facebook.com/oreilly$$[]
+Find us on Facebook: link:$$https://facebook.com/oreilly$$[]
 
-Follow us on Twitter: link:$$http://twitter.com/oreillymedia$$[]
+Follow us on Twitter: link:$$https://twitter.com/oreillymedia$$[]
 
-Watch us on YouTube: link:$$http://www.youtube.com/oreillymedia$$[]
+Watch us on YouTube: link:$$https://www.youtube.com/oreillymedia$$[]
 
 [[contacting_the_authour_sec]]
 === Contacting the authors
@@ -215,7 +215,9 @@ Following is an alphabetically sorted list of notable GitHub contributors, inclu
 * Dimitris Tsapakidis (dimitris-t)
 * Flash Sheridan (FlashSheridan)
 * Franco Daniel Berdun (fMercury)
+* Hon Lau (masterlook)
 * Hudson Jameson (Souptacular)
+* Iuri Matias (iurimatias)
 * Ivan Molto (ivanmolto)
 * Jason Hill (denifednu)
 * Javier Rojas (fjrojasgarcia)
@@ -235,6 +237,7 @@ Following is an alphabetically sorted list of notable GitHub contributors, inclu
 * Nagesh Subrahmanyam (chainhead)
 * Nichanan Kesonpat (nichanank)
 * Nick Johnson (arachnid)
+* Pet3rpan (pet3r-pan)
 * Pierre-Jean Subervie (pjsub)
 * Pong Cheecharern (Pongch)
 * Qiao Wang (qiaowang26)
@@ -253,4 +256,4 @@ Following is an alphabetically sorted list of notable GitHub contributors, inclu
 * Yeramin Santana (ysfdev)
 * Zhen Wang (zmxv)
 * ztz (zt2)
-* Pet3rpan (pet3r-pan)
+  Brian Ethier (dbe)
